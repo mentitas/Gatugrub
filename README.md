@@ -1,5 +1,8 @@
 # Gatugrub
 GRUB2 theme inspired by mundogaturro world selection screen
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/mentitas/gatugrub/main/screenshot.png"/><br/>
+</h3>
 
 Testeado únicamente en resolución 1366x768, ¡puede que para otras resoluciones no ande!
 
